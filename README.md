@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Moh.rifqi dwi ardiansyah
 - 👀 I’m interested in code
-- 🌱 I’m currently learning
+- 💪 i’am enthusiast learning
+- 🌱 I’m currently learning about technology develop
 - 📫 How to reach me @moh.rifqidwi
 
 <!---
