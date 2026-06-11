@@ -56,19 +56,19 @@ I don't just write code — I design systems. Whether that's a secure multi-tena
 ### 🔌 Hardware & IoT
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,py" />
 </p>
 
 | Technology | Usage |
 |---|---|
 | **Arduino / ESP32** | Embedded microcontrollers |
 | **Sensor Arrays** | Environmental data collection |
-| **Embedded C/C++** | Firmware development |
+| **Embedded C/C++/Python** | Firmware development |
 
 ### 🔐 Security & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,antigravity" />
 </p>
 
 | Technology | Usage |
@@ -139,10 +139,10 @@ A fully custom MIDI controller: 8 velocity-sensitive pads built on piezo sensors
 | 📧 **Email** | [rifqiardiansyah1387@gmail.com](mailto:rifqiardiansyah1387@gmail.com) |
 | 📍 **Based in** | Surabaya, East Java, Indonesia |
 
+
 <div align="center">
 
 <!-- Footer Banner -->
-![Footer](./footer.png)
 
 *Built with curiosity. Shipped with intention.*
 
