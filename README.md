@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&height=200&section=header&text=Rifqi%20Ardiansyah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20IoT%20%26%20Hardware%20Engineer&descAlignY=58&descColor=c7d2fe" width="100%"/>
+<!-- Header Banner (Generated with GitHub Profile Header Generator) -->
+![Header](./header.png)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;IoT+%26+Embedded+Systems+Engineer;Building+systems+that+bridge+code+%26+hardware)](https://git.io/typing-svg)
@@ -142,7 +142,7 @@ A fully custom MIDI controller: 8 velocity-sensitive pads built on piezo sensors
 <div align="center">
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=6366f1&height=120&section=footer&animation=fadeIn" width="100%"/>
+![Footer](./footer.png)
 
 *Built with curiosity. Shipped with intention.*
 
