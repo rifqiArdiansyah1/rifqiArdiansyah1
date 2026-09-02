@@ -19,7 +19,7 @@
 
 I'm an **Informatics Engineering** student at the Faculty of Science and Technology, passionate about building systems that live at the intersection of **scalable web architecture**, **mobile ecosystems**, and **intelligent hardware**.
 
-I don't just write code — I design systems. Whether that's a secure multi-tenant quiz platform or a hydroponic sensor array that feeds itself autonomously.
+I don't just write code — I design systems. Whether that's an enterprise multi-branch vehicle rental management platform, a secure full-stack quiz system, or a hydroponic sensor array that feeds itself autonomously.
 
 > 🎛️ *Fun fact: I build custom MIDI controllers from scratch using Dutch Teak wood and microcontrollers.*
 
@@ -35,23 +35,24 @@ I don't just write code — I design systems. Whether that's a secure multi-tena
 
 | Technology | Usage |
 |---|---|
-| **Next.js** | Full-stack web framework |
-| **React / React Native** | UI & cross-platform mobile |
-| **TypeScript** | Strongly-typed development |
-| **Tailwind CSS** | Rapid, utility-first styling |
-| **Expo** | Mobile app deployment |
+| **Next.js** | Full-stack web framework & App Router |
+| **React / React Native** | Interactive UI & cross-platform mobile |
+| **TypeScript** | Strongly-typed robust development |
+| **Tailwind CSS** | Modern, utility-first UI styling |
+| **Expo** | Universal React native app toolchain |
 
 ### ⚙️ Backend & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,supabase,mysql" />
 </p>
 
 | Technology | Usage |
 |---|---|
-| **Node.js** | Server-side runtime |
-| **Prisma ORM** | Type-safe database access |
-| **MySQL / Neon DB** | Relational data storage |
+| **Node.js** | High-performance server-side runtime |
+| **Prisma ORM** | Type-safe database modeling & migrations |
+| **PostgreSQL / Supabase** | Scalable relational storage, Auth & SSR integration |
+| **MySQL / Neon DB** | Serverless and structured relational databases |
 
 ### 🔌 Hardware & IoT
 
@@ -61,25 +62,34 @@ I don't just write code — I design systems. Whether that's a secure multi-tena
 
 | Technology | Usage |
 |---|---|
-| **Arduino / ESP32** | Embedded microcontrollers |
-| **Sensor Arrays** | Environmental data collection |
-| **Embedded C/C++/Python** | Firmware development |
+| **Arduino / ESP32** | Embedded microcontrollers & IoT nodes |
+| **Sensor Arrays** | Environmental telemetry & automated actuators |
+| **Embedded C/C++/Python** | Firmware development & sensor signal processing |
 
 ### 🔐 Security & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,antigravity" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
 | Technology | Usage |
 |---|---|
-| **Linux** | Development & server environments |
-| **Git / GitHub** | Version control & collaboration |
-| **Nmap** | Network scanning & security |
+| **Linux** | Development environments & server administration |
+| **Git / GitHub** | Version control, CI/CD & collaboration |
+| **Nmap** | Network scanning & vulnerability assessment |
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🚗 [Rental Management System](https://github.com/rifqiArdiansyah1/rental-management-system)
+> *Enterprise Multi-Branch Vehicle Rental & Fleet Booking Management System*
+
+A comprehensive multi-branch vehicle rental platform with automated fleet tracking and reservation pipelines. Engineered with role-based access control (Admin Pusat, Admin Cabang, Staff Cabang), customer document verification workflows, driver assignment lifecycles, and real-time availability scheduling.
+
+`Next.js (App Router)` `TypeScript` `Prisma ORM` `PostgreSQL / Supabase` `Tailwind CSS`
+
+---
 
 ### 🌐 Web Quiz Platform
 > *Secure, full-stack interactive quiz system*
@@ -87,15 +97,6 @@ I don't just write code — I design systems. Whether that's a secure multi-tena
 A multi-user quiz platform with dynamic question handling, middleware-guarded routes, and a structured relational schema built on Neon DB. Designed with security-first principles — sanitized inputs, role-based access, and safe data parsing throughout.
 
 `Next.js` `Prisma ORM` `Neon DB` `Tailwind CSS` `TypeScript`
-
----
-
-### 📦 UMKM Delivery App
-> *Government-supported last-mile logistics for local micro-businesses*
-
-A mobile logistics application connecting local MSMEs (Usaha Mikro Kecil Menengah) with native courier networks. Features real-time transaction workflows, order status tracking, and a responsive mobile UI built for low-bandwidth environments.
-
-`React Native` `Expo` `Node.js` `REST API`
 
 ---
 
@@ -139,10 +140,7 @@ A fully custom MIDI controller: 8 velocity-sensitive pads built on piezo sensors
 | 📧 **Email** | [rifqiardiansyah1387@gmail.com](mailto:rifqiardiansyah1387@gmail.com) |
 | 📍 **Based in** | Surabaya, East Java, Indonesia |
 
-
 <div align="center">
-
-<!-- Footer Banner -->
 
 *Built with curiosity. Shipped with intention.*
 
