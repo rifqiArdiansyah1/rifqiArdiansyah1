@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Informatics Engineering** student at the Faculty of Science and Technology, passionate about building systems that live at the intersection of **scalable web architecture**, **mobile ecosystems**, and **intelligent hardware**.
+I'm an **Informatics** student at the Faculty of Science and Technology, passionate about building systems that live at the intersection of **scalable web architecture**, **mobile ecosystems**, and **intelligent hardware**.
 
 I don't just write code — I design systems. Whether that's an enterprise multi-branch vehicle rental management platform, a secure full-stack quiz system, or a hydroponic sensor array that feeds itself autonomously.
 
